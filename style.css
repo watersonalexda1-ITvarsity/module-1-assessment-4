@@ -1,0 +1,16 @@
+style.css
+table{
+    border: solid 1px;
+}
+th{
+    background: Blueviolet;
+    color: white;
+}
+tr{
+    border: solid 1px;
+    background: blue;
+    color: white;
+}
+td{
+    border: solid 1px;
+}
